@@ -17,7 +17,7 @@ body{
   margin-inline: auto;
 }
 main{
-  margin: 1rem;
+  margin: 72px 24px;
 }
 @media screen and (width >= 768px){
   main{
@@ -72,7 +72,7 @@ main{
   border-radius: 0.5rem;
   background-color: #F9E8F8;
   padding: 1rem;
-  margin-left: auto;
+  margin-inline: auto;
 }
 @media screen and (width >= 768px){
   .rating{
@@ -81,6 +81,7 @@ main{
     height: 3.5rem;
     justify-content: center;
     gap: 1.875rem;
+    margin-inline: auto ;
   }
   .rating-container{
     display: flex;
@@ -99,7 +100,7 @@ main{
     margin-bottom: 0;
   }
   .rating-text{
-    margin: 8px;
+    margin-top: 2px;
   }
 }
 .stars-container{
@@ -111,7 +112,9 @@ main{
 .star-img{
   width: 1.0344rem;
   height: 0.9856rem;
+  margin: 0;
   gap: 0.5rem;
+  padding: 0;
 }
 .rating-text{
   font-size: 1.0625rem;
@@ -125,7 +128,8 @@ main{
   border-radius: 0.5rem;
   background-color: #512051;
   padding: 2rem;
-  margin: 1rem 0;
+  margin-inline: auto;
+  margin-bottom: 16px;
 }
 @media screen and (width >= 768px){
   .review-container{
