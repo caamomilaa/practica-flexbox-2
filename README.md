@@ -9,7 +9,7 @@
 
 ## Descripción 📑
 
-La presente práctica pretendía terminar de entender el concepto de flexbox, utilzando un diseño responsive que varía entre version desktop y mobile.
+La práctica pretendía terminar de entender el concepto de flexbox, utilzando un diseño responsive que varía entre version desktop y mobile.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
@@ -23,7 +23,6 @@ La presente práctica pretendía terminar de entender el concepto de flexbox, ut
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
 ## Vista previa del proyecto
 
@@ -37,9 +36,8 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 Camila Velázquez D'Amico
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- [c.velazquezdamico@gmail.com](c.velazquezdamico@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/c-velazquezdamico/)
 
 ## Instalación
 
